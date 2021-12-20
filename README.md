@@ -33,5 +33,5 @@ També plantejarem alguns exercicis de nivell incremental per assegurar la bona 
 
 ## Contingut
 
-1. **Solutions.md**: Conté un document amb les solucions a les activitats proposades al *HandsOn.md*.
+1. **[Solution.md](https://github.com/OS-GTIDIC/HandsOn06/blob/master/Solution.md)**: Conté un document amb les solucions a les activitats proposades al *HandsOn.md*.
 2. Les carpetes **act0X**, contenen els codis per solucionar les activitats suggerides.
