@@ -95,7 +95,7 @@ Raoneu i reflexioneu sobre les següents preguntes.
 
 En sistemes operatius UNIX dos processos Pare i Fill mai comparteixen l'espai d'adreces. El pipes resideixen al nucli i per aquest motiu ens permeten comunicar dos processos diferents. Les dades que es transfereixen per la pipe s'allotgen a un buffer de la memòria caché que es troba en l'espai d'adreces del nucli.
 
-![https://cs61.seas.harvard.edu/site/2018/Shell2/](https://cs61.seas.harvard.edu/site/img/pipe-fork.gif)
+![](https://cs61.seas.harvard.edu/site/img/pipe-fork.gif)
 
 # Activitat 04:
 Explica que fa el codi següent i raona l'efecte de comentar i descomentar la línia marcada amb //(X).
